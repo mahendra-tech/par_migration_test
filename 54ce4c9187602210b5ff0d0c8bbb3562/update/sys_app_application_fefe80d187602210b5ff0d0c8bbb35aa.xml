@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>PAR_Migration_Test</description>
+        <device_type>browser</device_type>
+        <hint>PAR_Migration_Test</hint>
+        <name/>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>mahendra.pratapsingh@snc</sys_created_by>
+        <sys_created_on>2025-03-26 15:39:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fefe80d187602210b5ff0d0c8bbb35aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PAR_Migration_Test</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="PAR_Migration_Test" source="x_snc_par_migratio">54ce4c9187602210b5ff0d0c8bbb3562</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PAR_Migration_Test">54ce4c9187602210b5ff0d0c8bbb3562</sys_scope>
+        <sys_update_name>sys_app_application_fefe80d187602210b5ff0d0c8bbb35aa</sys_update_name>
+        <sys_updated_by>mahendra.pratapsingh@snc</sys_updated_by>
+        <sys_updated_on>2025-03-26 15:39:14</sys_updated_on>
+        <title>PAR_Migration_Test</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
