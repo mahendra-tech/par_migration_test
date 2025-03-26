@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2025-03-26 15:47:34">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>mahendra.pratapsingh@snc</sys_created_by>
+        <sys_created_on>2025-03-26 15:45:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0c80105587602210b5ff0d0c8bbb3568</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="PAR_Migration_Test" source="x_snc_par_migratio">54ce4c9187602210b5ff0d0c8bbb3562</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PAR_Migration_Test">54ce4c9187602210b5ff0d0c8bbb3562</sys_scope>
+        <sys_update_name>sys_portal_page_0c80105587602210b5ff0d0c8bbb3568</sys_update_name>
+        <sys_updated_by>mahendra.pratapsingh@snc</sys_updated_by>
+        <sys_updated_on>2025-03-26 15:45:52</sys_updated_on>
+        <title>New Tab 1</title>
+        <user/>
+        <view>new_tab_1_19_1_3</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="New Tab 1">0c80105587602210b5ff0d0c8bbb3568</page>
+                <summary>Test Report for IBM - CS7990867</summary>
+                <sys_created_by>mahendra.pratapsingh@snc</sys_created_by>
+                <sys_created_on>2025-03-26 15:45:52</sys_created_on>
+                <sys_id>8880105587602210b5ff0d0c8bbb356a</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>mahendra.pratapsingh@snc</sys_updated_by>
+                <sys_updated_on>2025-03-26 15:45:52</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2025-03-26 08:45:52">8880105587602210b5ff0d0c8bbb356a</portal_section>
+                        <sys_created_by>mahendra.pratapsingh@snc</sys_created_by>
+                        <sys_created_on>2025-03-26 15:45:52</sys_created_on>
+                        <sys_id>0880105587602210b5ff0d0c8bbb356b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>mahendra.pratapsingh@snc</sys_updated_by>
+                        <sys_updated_on>2025-03-26 15:45:52</sys_updated_on>
+                        <value>89eb9628872c6610ab8798eabbbb35ab</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2025-03-26 08:45:52">8880105587602210b5ff0d0c8bbb356a</portal_section>
+                        <sys_created_by>mahendra.pratapsingh@snc</sys_created_by>
+                        <sys_created_on>2025-03-26 15:45:52</sys_created_on>
+                        <sys_id>0c80105587602210b5ff0d0c8bbb356c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>mahendra.pratapsingh@snc</sys_updated_by>
+                        <sys_updated_on>2025-03-26 15:45:52</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2025-03-26 08:45:52">8880105587602210b5ff0d0c8bbb356a</portal_section>
+                        <sys_created_by>mahendra.pratapsingh@snc</sys_created_by>
+                        <sys_created_on>2025-03-26 15:45:52</sys_created_on>
+                        <sys_id>4880105587602210b5ff0d0c8bbb356c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>mahendra.pratapsingh@snc</sys_updated_by>
+                        <sys_updated_on>2025-03-26 15:45:52</sys_updated_on>
+                        <value>Test Report for IBM - CS7990867</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2025-03-26 08:45:52">8880105587602210b5ff0d0c8bbb356a</portal_section>
+                        <sys_created_by>mahendra.pratapsingh@snc</sys_created_by>
+                        <sys_created_on>2025-03-26 15:45:52</sys_created_on>
+                        <sys_id>8080105587602210b5ff0d0c8bbb356d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>mahendra.pratapsingh@snc</sys_updated_by>
+                        <sys_updated_on>2025-03-26 15:45:52</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2025-03-26 08:45:52">8880105587602210b5ff0d0c8bbb356a</portal_section>
+                        <sys_created_by>mahendra.pratapsingh@snc</sys_created_by>
+                        <sys_created_on>2025-03-26 15:45:52</sys_created_on>
+                        <sys_id>8480105587602210b5ff0d0c8bbb356c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>mahendra.pratapsingh@snc</sys_updated_by>
+                        <sys_updated_on>2025-03-26 15:45:52</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2025-03-26 08:45:52">8880105587602210b5ff0d0c8bbb356a</portal_section>
+                        <sys_created_by>mahendra.pratapsingh@snc</sys_created_by>
+                        <sys_created_on>2025-03-26 15:45:52</sys_created_on>
+                        <sys_id>cc80105587602210b5ff0d0c8bbb356c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>mahendra.pratapsingh@snc</sys_updated_by>
+                        <sys_updated_on>2025-03-26 15:45:52</sys_updated_on>
+                        <value>bar</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>
