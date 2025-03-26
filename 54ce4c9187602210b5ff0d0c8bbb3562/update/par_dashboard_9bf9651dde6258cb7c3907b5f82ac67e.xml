@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard">
+    <par_dashboard action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <certified>false</certified>
+        <description/>
+        <experience/>
+        <grid>48</grid>
+        <name>PAR_MIG_TestDashboard for IBM - CS799086</name>
+        <sys_class_name>par_dashboard</sys_class_name>
+        <sys_created_by>mahendra.pratapsingh@snc</sys_created_by>
+        <sys_created_on>2025-03-26 15:45:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9bf9651dde6258cb7c3907b5f82ac67e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>PAR_MIG_TestDashboard for IBM - CS799086</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="PAR_Migration_Test" source="x_snc_par_migratio">54ce4c9187602210b5ff0d0c8bbb3562</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PAR_Migration_Test">54ce4c9187602210b5ff0d0c8bbb3562</sys_scope>
+        <sys_update_name>par_dashboard_9bf9651dde6258cb7c3907b5f82ac67e</sys_update_name>
+        <sys_updated_by>mahendra.pratapsingh@snc</sys_updated_by>
+        <sys_updated_on>2025-03-26 15:48:59</sys_updated_on>
+        <sys_ux_app_config/>
+        <sys_ux_app_route/>
+        <sys_ux_macroponent/>
+        <sys_ux_screen/>
+        <sys_ux_screen_type/>
+    </par_dashboard>
+</record_update>

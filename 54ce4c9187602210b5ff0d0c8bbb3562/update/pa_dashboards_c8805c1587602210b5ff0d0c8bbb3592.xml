@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_dashboards">
     <pa_dashboards action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <breakdown_source/>
         <color/>
         <disable_multiple_element>false</disable_multiple_element>
-        <experience_dashboard/>
+        <experience_dashboard display_value="PAR_MIG_TestDashboard for IBM - CS799086">9bf9651dde6258cb7c3907b5f82ac67e</experience_dashboard>
         <group/>
         <groups/>
         <is_breakdown>false</is_breakdown>
@@ -24,7 +24,7 @@
         <should_migrate_permissions>false</should_migrate_permissions>
         <sys_class_name>pa_dashboards</sys_class_name>
         <sys_created_by>mahendra.pratapsingh@snc</sys_created_by>
-        <sys_created_on>2025-03-26 15:45:52</sys_created_on>
+        <sys_created_on>2025-03-26 15:48:30</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c8805c1587602210b5ff0d0c8bbb3592</sys_id>
@@ -36,7 +36,7 @@
         <sys_scope display_value="PAR_Migration_Test">54ce4c9187602210b5ff0d0c8bbb3562</sys_scope>
         <sys_update_name>pa_dashboards_c8805c1587602210b5ff0d0c8bbb3592</sys_update_name>
         <sys_updated_by>mahendra.pratapsingh@snc</sys_updated_by>
-        <sys_updated_on>2025-03-26 15:46:18</sys_updated_on>
+        <sys_updated_on>2025-03-26 15:48:30</sys_updated_on>
         <users/>
         <visible_to>2</visible_to>
     </pa_dashboards>
